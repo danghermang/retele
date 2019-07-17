@@ -1,0 +1,9 @@
+﻿  main.cpp
+d:\facultate\an 2 sem 1\retele de calculatoare\smfl chess\smfl chess\main.cpp(39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\facultate\an 2 sem 1\retele de calculatoare\smfl chess\smfl chess\main.cpp(71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\facultate\an 2 sem 1\retele de calculatoare\smfl chess\smfl chess\main.cpp(75): warning C4018: '<': signed/unsigned mismatch
+d:\facultate\an 2 sem 1\retele de calculatoare\smfl chess\smfl chess\main.cpp(120): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\facultate\an 2 sem 1\retele de calculatoare\smfl chess\smfl chess\main.cpp(132): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\facultate\an 2 sem 1\retele de calculatoare\smfl chess\smfl chess\main.cpp(133): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.obj : error LNK2001: unresolved external symbol "public: static class sf::RenderStates const sf::RenderStates::Default" (?Default@RenderStates@sf@@2V12@B)
+D:\Facultate\an 2 sem 1\Retele de calculatoare\smfl chess\Debug\smfl chess.exe : fatal error LNK1120: 1 unresolved externals
